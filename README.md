@@ -9,7 +9,9 @@
 - history
 - terature
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+**SCHEDULE**
+| **Time of Day** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| morning | not available | not available | not available | not available | not available |
+| afternoon | available | available | available | available | available |
+| night | not available | not available | available | not available | available |
