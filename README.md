@@ -1,4 +1,4 @@
-# *Welcome to lovielyn.github.io*
+# *Creating a Fictional Character*
 
 > Hellooooo, this website is for learning how to make a fictional character, wether it is for a novel, manga, or otherwise.
 
