@@ -1,6 +1,6 @@
 # *WELCOME TO MY PAGE*
 
-![Current Facebook profile picture](https://www.facebook.com/photo/?fbid=1505101983339509&set=a.107063413143380)
+![Current Facebook profile picture](https://www.facebook.com/photo/?fbid=1505101983339509&set=a.107063413143380.jpg)
 
 > Hellooooo, this website is about me, Lovelyn Chizuko Ishida.
 
