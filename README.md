@@ -1,6 +1,6 @@
 # *WELCOME TO MY PAGE*
 
-![hi]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.color-hex.com%2Fcolor-palette%2F6842&psig=AOvVaw1qEijkL6BK5x-2-75CDAlQ&ust=1669257418995000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCev9Giw_sCFQAAAAAdAAAAABAD](https://www.google.com/search?q=brown&rlz=1C1CHBF_enPH1032PH1032&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjyoM3KosP7AhWV6zgGHVhoAO0Q_AUoAXoECAIQAw&biw=1360&bih=625&dpr=1#imgrc=4MFDxWzY5kQomM))
+![hi]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.color-hex.com%2Fcolor-palette%2F6842&psig=AOvVaw1qEijkL6BK5x-2-75CDAlQ&ust=1669257418995000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCev9Giw_sCFQAAAAAdAAAAABAD](https://www.color-hex.com/palettes/6842.png)
 
 > Hellooooo, this website is about me, Lovelyn Chizuko Ishida.
 
