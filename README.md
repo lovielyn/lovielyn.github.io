@@ -1,5 +1,7 @@
 # *WELCOME TO MY PAGE*
 
+![alt text](https://www.facebook.com/photo/?fbid=1505101983339509&set=a.107063413143380)
+
 > Hellooooo, this website is about me, Lovelyn Chizuko Ishida.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/re9DT2HeG2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
