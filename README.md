@@ -1,6 +1,6 @@
 # *WELCOME TO MY PAGE*
 
-![hi]([https://www.color-hex.com/palettes/6842.png](https://scontent.fceb6-1.fna.fbcdn.net/v/t39.30808-6/314797235_1505101976672843_6713313606147284212_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEfZxKxlXAG63icvanvwbLxTsPdN6eyQrdOw903p7JCt7ggteEOBg1GfIQeN2XPIvz46A7ktnDokwGxQvaFVn0w&_nc_ohc=aDQvJ5Mw1aEAX80iNWb&_nc_ht=scontent.fceb6-1.fna&oh=00_AfD28JWsq4qzYtJKD0mhh7jXVV1PhhFcGA0B_lcsd90noA&oe=6382B64D)
+![hi](https://scontent.fceb6-1.fna.fbcdn.net/v/t39.30808-6/314797235_1505101976672843_6713313606147284212_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEfZxKxlXAG63icvanvwbLxTsPdN6eyQrdOw903p7JCt7ggteEOBg1GfIQeN2XPIvz46A7ktnDokwGxQvaFVn0w&_nc_ohc=aDQvJ5Mw1aEAX80iNWb&_nc_ht=scontent.fceb6-1.fna&oh=00_AfD28JWsq4qzYtJKD0mhh7jXVV1PhhFcGA0B_lcsd90noA&oe=6382B64D)
 
 > Hellooooo, this website is about me, Lovelyn Chizuko Ishida.
 
