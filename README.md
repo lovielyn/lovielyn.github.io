@@ -6,7 +6,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/re9DT2HeG2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Soooooooo, where do we start?
-### I suppose we'll start with my favorites; first, the basics.
+### I suppose we'll start with my favorites.
 - My favorite color is sage green, emerald green, khaki brown.
 - My favorite food is sushi and omurice.
 - My favorite activity to do is reading, writing, shopping, and of course, sleeping.
