@@ -10,7 +10,9 @@
 - My favorite color is sage green, emerald green, khaki brown.
 - My favorite food is sushi and omurice.
 - My favorite activity to do is reading, writing, shopping, and of course, sleeping.
+- My favorite song is "The Way I Loved You" by Taylor Swift, and "Popular Monster" by Falling in Reverse.
 ### Second, the more, I suppose, in depth introduction to me.
 - I was born on April 10, 2008 and I am currently 14-years-old as of 2022.
 - My zodiac sign is Aries (if you're wondering).
-- I am the eldest child of three to a Japanese father and a Filipino mother.
+- I am the eldest child of three to a Japanese father and a Filipina mother.
+- 
